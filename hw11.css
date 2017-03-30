@@ -1,0 +1,23 @@
+header {
+    background-color: lightpink;
+    font-family: "calibri";
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    font-family: "garamond";
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+    font-size: 24px;
+    color: pink;
+}
+
+button {
+    background-color: pink;
+}
